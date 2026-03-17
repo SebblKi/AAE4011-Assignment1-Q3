@@ -1,7 +1,7 @@
 # AAE4011 Assignment 1 – Q3
 ## ROS-Based Vehicle Detection from Rosbag
 
-Student: Sebastian  
+Student: Sebastian Kissner - 25140182X
 Module: AAE4011 – Fundamentals of Programming for AI  
 Assignment: Assignment 1 – Question 3  
 
@@ -35,7 +35,7 @@ I selected YOLOv8 for several reasons:
 - it is pre-trained for common vehicle classes such as cars, trucks and buses
 - the Ultralytics implementation integrates easily into Python-based ROS nodes
 
-For this project the YOLOv8n (nano) model was used because it provides a good balance between detection accuracy and computational efficiency.
+For this project the YOLOv8n (nano) model was used because it provides a good balance between detection accuracy and computational efficiency. Additionally, it's compatible to the provided software stack on macOS. 
 
 ---
 
