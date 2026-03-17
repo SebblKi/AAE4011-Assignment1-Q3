@@ -193,7 +193,7 @@ Although AI assistance helped accelerate development, manual debugging and testi
 
 Detection accuracy could be improved by training the YOLO model on a custom dataset containing images captured from drone cameras. This would allow the model to better adapt to aerial viewpoints.
 
-Another option would be to use a larger YOLO model (for example YOLOv8m or YOLOv8l), which could improve accuracy at the cost of increased computational requirements.
+Another option would be to use a larger or newer YOLO model (for example YOLOv11m), which could improve accuracy at the cost of increased computational requirements.
 
 ---
 
