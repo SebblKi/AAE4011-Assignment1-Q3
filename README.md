@@ -21,7 +21,7 @@ rosbag → camera topic → YOLO detection node → annotated image topic → GU
 
 ---
 
-# 2. Detection Method (Q3.1 – 2 marks)
+# 2. Detection Method (Q3.1)
 
 For this project I used the Ultralytics YOLOv8 object detection model.
 
@@ -89,7 +89,7 @@ XQuartz is used on macOS to forward GUI windows from the VM.
 
 ---
 
-# 5. Running the System (Q3.1 – 2 marks)
+# 5. Running the System (Q3.1)
 
 Step 1 – Build the ROS workspace
 
@@ -154,7 +154,7 @@ This screenshot shows the full system running with the ROS master, rosbag playba
 
 ---
 
-# 7. Video Demonstration (Q3.2 – 5 marks)
+# 7. Video Demonstration (Q3.2)
 
 Video Link:  
 https://youtu.be/fTZsSNVpkDc
@@ -169,9 +169,9 @@ The demonstration video shows:
 
 ---
 
-# 8. Reflection & Critical Analysis (Q3.3 – 8 marks)
+# 8. Reflection & Critical Analysis (Q3.3)
 
-## What Did You Learn? (2 marks)
+## What Did You Learn?
 
 Through this project I learned how to integrate a deep learning model into a ROS perception pipeline. In particular, I gained experience working with ROS image topics, rosbag playback, and connecting machine learning models with robotics software.
 
@@ -181,7 +181,7 @@ Most importantly, I learned how powerful AI tools (such as ChatGPT) are for soft
 
 ---
 
-## How Did You Use AI Tools? (2 marks)
+## How Did You Use AI Tools?
 
 AI tools were used to assist with debugging and development tasks, including resolving ROS configuration issues, handling Python dependency conflicts, and integrating the YOLO model into a ROS node. The code and files were mostly written by ChatGPT first, and then manually checked & adjusted. AI was also used to check the language (spelling & grammar) of this readme file.
 
@@ -189,7 +189,7 @@ Although AI assistance helped accelerate development, manual debugging and testi
 
 ---
 
-## How Could Detection Accuracy Be Improved? (2 marks)
+## How Could Detection Accuracy Be Improved?
 
 Detection accuracy could be improved by training the YOLO model on a custom dataset containing images captured from drone cameras. This would allow the model to better adapt to aerial viewpoints.
 
@@ -197,7 +197,7 @@ Another option would be to use a larger or newer YOLO model (for example YOLOv11
 
 ---
 
-## Real-World Deployment Challenges (2 marks)
+## Real-World Deployment Challenges
 
 Deploying this system on a real drone introduces several challenges.
 
