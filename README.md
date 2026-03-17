@@ -183,7 +183,7 @@ Most importantly, I learned how powerful AI tools (such as ChatGPT) are for soft
 
 ## How Did You Use AI Tools?
 
-AI tools were used to assist with debugging and development tasks, including resolving ROS configuration issues, handling Python dependency conflicts, and integrating the YOLO model into a ROS node. The code and files were mostly written by ChatGPT first, and then manually checked & adjusted. AI was also used to check the language (spelling & grammar) of this readme file.
+AI tools (ChatGPT) were used to assist with debugging and development tasks, including resolving ROS configuration issues, handling Python dependency conflicts, and integrating the YOLO model into a ROS node. The code and files were mostly written by ChatGPT first, and then manually checked & adjusted. AI was also used to check the language (spelling & grammar) of this readme file.
 
 Although AI assistance helped accelerate development, manual debugging and testing were still required to ensure that the ROS nodes, Python environments, and GUI visualisation worked correctly together. Additionally, the success of the AI tools depends on the quality of the prompt.
 
